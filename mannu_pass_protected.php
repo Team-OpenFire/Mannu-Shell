@@ -117,27 +117,6 @@ A:active {
 		echo $head ;
 		echo '
 
-<table width="100%" cellspacing="0" cellpadding="0" class="tb1" >
-
-			
-
-       <td width="100%" align=center valign="top" rowspan="1">
-           <font color=#ff9933 size=5 face="comic sans ms"><b>--==[[ Mannu sHeLL</font><font color=white size=5 face="comic sans ms"><b>, By Team </font><font color=green size=5 face="comic sans ms"><b> INDIShEll]]==--</font> <div class="hedr"> 
-
-        <td height="10" align="left" class="td1"></td></tr><tr><td 
-        width="100%" align="center" valign="top" rowspan="1"><font 
-        color="red" face="comic sans ms"size="1"><b> 
-        <font color=#ff9933> 
-        ##########################################</font><font color=white>#############################################</font><font color=green>#############################################</font><br><font color=white>
-        --==[[Greetz to]]==--</font><br> <font color=#ff9933>Guru ji zero ,code breaker ica, root_devil, google_warrior,INX_r0ot,Darkwolf indishell,Baba ,Silent poison India,Magnum sniper,ethicalnoob Indishell,Local root indishell,Irfninja indishell<br>Reborn India,L0rd Crus4d3r,cool toad,Hackuin,Alicks,Gujjar PCP,Bikash,Dinelson Amine,Th3 D3str0yer,SKSking,rad paul,Godzila,mike waals,zoo zoo,cyber warrior,Neo hacker ICA<br>cyber gladiator,7he Cre4t0r,Cyber Ace, Golden boy INDIA,Ketan Singh,Yash,Aneesh Dogra,AR AR,saad abbasi,hero,Minhal Mehdi ,Raj bhai ji , Hacking queen ,lovetherisk and rest of TEAM INDISHELL<br>
-<font color=white>--==[[Love to]]==--</font><br># My Father , my Ex Teacher,cold fire hacker,Mannu, ViKi,Jagriti,Suriya Cyber Tyson ,Ashu bhai ji,Soldier Of God,Shafoon,Rehan Manzoor,almas malik, Bhuppi,Mohit, Ffe ^_^,Govind Singh,Shardhanand ,Budhaoo,Don(Deepika kaushik) <br>
-<font color=white>--==[[Interface Desgined By]]==--</font><br><font color=red>GCE College ke DON :D</font>        <br></font>
-        <b> 
-        <font color=#ff9933> 
-        ##########################################</font><font color=white>#############################################</font><font color=green>#############################################</font>
-						
-           </table>
-       </table> <br>
 
 '; 
 if(isset($_POST['khulja']) && md5($_POST['lock']==$simsim))
